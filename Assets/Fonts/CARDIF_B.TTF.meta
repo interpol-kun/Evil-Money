@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 82f9b57f7ef98f74e910e8cfadb1747d
+timeCreated: 1512231991
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cardiff
+  fontNames:
+  - Cardiff
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5882688fcb997274ea78a66460d6ade7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

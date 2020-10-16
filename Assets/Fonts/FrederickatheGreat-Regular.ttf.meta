@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4ae0f2a877abb994984564f071cb9923
+timeCreated: 1512235189
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 64
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fredericka the Great
+  fontNames:
+  - Fredericka the Great
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
